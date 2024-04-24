@@ -1,4 +1,4 @@
-//Final Project by Meredith Whisman
+//Final Project
 //14 March 2024
 
 PFont arial;
